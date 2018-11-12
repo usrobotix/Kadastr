@@ -2299,5 +2299,12 @@ ul.breadcrumbs {
     margin-top: -150px;
   }
 .breadcrumbs li:after {
-  
+           border-radius: 50%;
+        background-color: rgb(255, 192, 0);
+        position: absolute;
+        left: 395px;
+        top: 199px;
+        width: 5px;
+        height: 5px;
+        z-index: 63;    
 }
