@@ -2324,11 +2324,11 @@ ul.breadcrumbs {
     background-color: rgb(255, 192, 0);
     box-shadow: 0px 8px 62px 0px rgba(0, 0, 0, 0.07);
     position: absolute;
-    height: 179px;
+    height: 175px;
     z-index: 65;
-    margin-top: -99px;
+    margin-top: -98px;
     width: 1202px;
-  }
+}
   
   .yellow_solid h2 {
     font-size: 24px;
