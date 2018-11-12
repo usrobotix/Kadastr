@@ -2363,3 +2363,15 @@ ul.breadcrumbs {
     height: 425px;
     background-image: url(../images/yellow_bkgr.png);
 }
+.Мы_решаем_задачи: {
+    font-size: 36px;
+    font-family: "Montserrat";
+    color: rgb(17, 17, 17);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 347.312px;
+    top: 558.8px;
+    z-index: 92;
+  }
