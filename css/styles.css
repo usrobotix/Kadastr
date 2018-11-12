@@ -2324,35 +2324,42 @@ ul.breadcrumbs {
     background-color: rgb(255, 192, 0);
     box-shadow: 0px 8px 62px 0px rgba(0, 0, 0, 0.07);
     position: absolute;
-    width: 1199px;
     height: 179px;
     z-index: 65;
+    margin-top: -99px;
+    width: 1202px;
   }
   
-  .Важная_информация_ {
+  .yellow_solid h2 {
     font-size: 24px;
     font-family: "Montserrat";
     color: rgb(17, 17, 17);
     font-weight: bold;
     line-height: 1.2;
-    text-align: right;
-    position: absolute;
-    left: 795.906px;
-    top: 282.2px;
+    text-align: center;
     z-index: 66;
+    margin-top: 41px;
+    letter-spacing: 1.2px;
   }
 
-  ._Малый_бизнес_порой_не_в_состоянии_преодолеть_б {
+.yellow_solid p {
     font-size: 14px;
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
     line-height: 1.286;
     text-align: center;
     position: absolute;
-    left: 398.632px;
-    top: 339.053px;
     width: 1081px;
     height: 33px;
     z-index: 67;
-  }
-  
+    margin-top: 5px;
+    margin-left: 52px;
+    letter-spacing: 0.62px;
+}
+.tasks {
+    margin-top: 67px;
+    margin-left: 45px;
+    background-repeat: no-repeat;
+    height: 425px;
+    background-image: url(../images/yellow_bkgr.png);
+}
