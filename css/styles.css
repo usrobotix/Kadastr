@@ -2360,18 +2360,27 @@ ul.breadcrumbs {
     margin-top: 67px;
     margin-left: 45px;
     background-repeat: no-repeat;
-    height: 425px;
+    height: 516px;
     background-image: url(../images/yellow_bkgr.png);
 }
-.Мы_решаем_задачи: {
+.tasks h3 {
+    width: 300px;
     font-size: 36px;
     font-family: "Montserrat";
     color: rgb(17, 17, 17);
     font-weight: bold;
     line-height: 1.2;
-    text-align: right;
+    text-align: left;
     position: absolute;
-    left: 347.312px;
-    top: 558.8px;
     z-index: 92;
-  }
+    margin-top: 151px;
+    margin-left: -20px;
+    letter-spacing: 2px;
+}
+.services {
+    width: 75%;
+
+}
+.service_item {
+    width: 33%;
+}
