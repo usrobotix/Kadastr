@@ -2019,7 +2019,7 @@ footer .social a{
 
     height: 35px;
 
-    background: url(../images/social.png) 0  0 no-repeat;
+    background: url(../images/555.png) 0  0 no-repeat;
 
     transition: background .2s linear;
 }
@@ -2039,7 +2039,7 @@ footer .social a.fb:hover{
 }
 
 footer .social a.tv{
-    width: 33px;
+    width: 42px;
 
     background-position: -44px 0;
 }
@@ -2554,10 +2554,17 @@ footer {
     padding: 104px 0 30px;
     background: #0e0d41;
     margin-left: -10px;
-    height: 270px;
+    height: 173px;
+}
+footer .link {
+margin: -37px 0px 0px -20px;
 }
 footer .logo {
-    margin-top: unset;
+    margin-top: -53px;
+}
+footer .contact {
+    margin-left: 129px;
+    margin-top: -46px;
 }
 footer .cont {
     transform: rotate(-1.5deg);
@@ -2569,18 +2576,24 @@ footer .cont {
 }
 section.copyright {
     transform: rotate(0deg);
-    height: 220px;
+    height: 193px;
     z-index: 50;
     background-color: #080833;
-    margin-top: -32px;
+    margin-top: -29px;
 }
 footer .social {
-    margin-top: 0px;
+    margin-top: -52px;
 }
+footer .link a{
+    margin: -37px 0 0 23px;}
+
 .copyright .copy {
     color: white;
 }
 .copyright .text {
     padding-top: 80px;
 }
+<<<<<<< HEAD
 >>>>>>> 95657ed8f8ca4835474a0ed30c1b486a5f079904
+=======
+>>>>>>> d5171b7e65cee161112b1d22280f7ef5ecde8f50
