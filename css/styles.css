@@ -2395,7 +2395,7 @@ ul.breadcrumbs {
 /*.big_item {
     float: right;
 }*/
-._Малый_бизнес_порой_не_в_состоянии_преодолеть_б {
+.seo_txt p {
     font-size: 14px;
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
@@ -2422,7 +2422,7 @@ ul.breadcrumbs {
     z-index: 42;
   }
 
-  .Блок_для_сеотекста {
+  .seo_txt h2 {
     font-size: 36px;
     font-family: "Montserrat";
     color: rgb(17, 17, 17);
