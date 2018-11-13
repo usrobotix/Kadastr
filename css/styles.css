@@ -2460,9 +2460,9 @@ transform: rotate(-1deg);
     height: 200px;
     background: #f1f1f1; }
 .map {
-   height: 390px;
+    height: 490px;
     margin-top: -85px;
-   transform: unset; 
+    transform: unset;
 }
 .map .info_map2 {
         right: 40%;
@@ -2492,6 +2492,8 @@ transform: rotate(-1deg);
     line-height: 1.2;
     text-align: center;
     z-index: 38;
+
+    margin-top: 20px;
   }
   .address2 {
     font-size: 16px;
@@ -2500,6 +2502,8 @@ transform: rotate(-1deg);
     line-height: 1.2;
     text-align: center;
     z-index: 39;
+
+    margin-top: 20px;
   }
 
   .tel2 a{
@@ -2524,4 +2528,41 @@ transform: rotate(-1deg);
   }
   .tel2, .mail2 {
     text-align: center;
+
+    margin-top: 20px;
   }
+footer {
+    transform: rotate(1.5deg);
+    margin-top: -81px;
+    padding: 104px 0 30px;
+    background: #0e0d41;
+    margin-left: -10px;
+    height: 270px;
+}
+footer .logo {
+    margin-top: unset;
+}
+footer .cont {
+    transform: rotate(-1.5deg);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+section.copyright {
+    transform: rotate(0deg);
+    height: 220px;
+    z-index: 50;
+    background-color: #080833;
+    margin-top: -32px;
+}
+footer .social {
+    margin-top: 0px;
+}
+.copyright .copy {
+    color: white;
+}
+.copyright .text {
+    padding-top: 80px;
+}
