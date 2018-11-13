@@ -2675,3 +2675,16 @@ footer .link a{
    
     opacity: 1; 
     margin-top: 310px;}
+    ._01 {
+        font-size: 16px;
+        font-family: "Montserrat";
+        color: rgb(226, 226, 226);
+        font-weight: bold;
+        line-height: 1.2;
+        text-align: right;
+        position: absolute;
+        left: 933.375px;
+        top: 502.4px;
+        z-index: 84;
+      }
+      
