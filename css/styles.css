@@ -2449,6 +2449,7 @@ section.seo_txt {
     text-align: center;
     z-index: 28;
   }
+<<<<<<< HEAD
 
   .seo_txt div {}
 
@@ -2477,3 +2478,67 @@ transform: rotate(-1deg);
     transform: unset; 
     top: unset;
 }
+=======
+  .Прямоугольник_17 {
+    background-color: rgb(63, 28, 86);
+    opacity: 0.859;
+    position: absolute;
+    left: 738px;
+    top: 1452px;
+    width: 406px;
+    height: 196px;
+    z-index: 37;
+  }
+
+  .г__Москва {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 898.797px;
+    top: 1481.4px;
+    z-index: 38;
+  }
+  .ул__Михаила_Победного__д_6__офис_19 {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 790.937px;
+    top: 1508.946px;
+    z-index: 39;
+  }
+
+  ._7__495__258_24_28 {
+    font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 855.891px;
+    top: 1546.9px;
+    z-index: 40;
+  }
+
+  .kadastr_mail_ru {
+    font-size: 18px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 866px;
+    top: 1578.09px;
+    z-index: 41;
+  }
+  
+>>>>>>> 509fcf6d42ec364d5732e586136de09b43f0d34a
