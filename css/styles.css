@@ -2435,3 +2435,17 @@ ul.breadcrumbs {
     z-index: 26;
   }
   
+  .подробнее___ {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 894px;
+    top: 1169.7px;
+    z-index: 28;
+  }
