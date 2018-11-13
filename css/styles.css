@@ -2395,4 +2395,30 @@ ul.breadcrumbs {
 /*.big_item {
     float: right;
 }*/
-
+._Малый_бизнес_порой_не_в_состоянии_преодолеть_б {
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    line-height: 1.286;
+    text-align: center;
+    position: absolute;
+    left: 418.428px;
+    top: 1047.053px;
+    width: 1048px;
+    height: 105px;
+    z-index: 27;
+  }
+  
+  .Как_нас_найти_ {
+    font-size: 36px;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 795.937px;
+    top: 1291.4px;
+    z-index: 42;
+  }
+  
