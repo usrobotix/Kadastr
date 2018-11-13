@@ -2645,3 +2645,33 @@ footer .link a{
     position: absolute;
     margin-left: 260px;
 }
+.service_item:hover span.podlozhka {
+    transform: rotate(-1.5deg);
+    margin-top: 104px;
+    position: absolute;
+    margin-left: 226px;
+    opacity: 1;
+}
+.service_item span.podlozhka {
+    opacity: 0;
+}
+.service_item .check {     position: absolute;
+    z-index: 22;
+    opacity: 0; }
+
+.service_item:hover .check {position: absolute;
+    z-index: 22;
+    opacity: 1; }
+
+   .service_item.big:hover span.podlozhka {
+    transform: rotate(-1.5deg);
+    margin-top: 274px;
+    position: absolute;
+    margin-left: 226px;
+    opacity: 1;
+}
+   .service_item.big:hover span
+   {     position: absolute;
+   
+    opacity: 1; 
+    margin-top: 310px;}
