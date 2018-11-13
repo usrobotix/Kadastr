@@ -2703,14 +2703,14 @@ footer .link a{
        .service_item.big:hover .numbers {
         top: -290px;
        }
-       .Прямоугольник_18 {
+       .submenu {
         background-color: rgb(255, 255, 255);
         box-shadow: 0px 8px 62px 0px rgba(0, 0, 0, 0.82);
         position: absolute;
-        left: 680px;
-        top: 81px;
         width: 331px;
         height: 164px;
         z-index: 233;
       }
       
+     .submenu {visibility: hidden;}
+     ul li:hover .submenu {visibility: visible;}
