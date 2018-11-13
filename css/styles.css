@@ -2378,22 +2378,18 @@ ul.breadcrumbs {
     letter-spacing: 2px;
 }
 .tasks .services {
-    margin-top: 20px;
-    width: 1100px;
-    margin-left: 25%;
-
- 
- 
+    padding: 84px 0px 0px 0px;
+    width: 800px;
+    margin-left: 26.5%;
 }
 .tasks .service_item {
     display: inline-block;
-    margin: 0 0 1em;
+    margin: 0 0 .6em;
     width: 100%;
-    
 }
-.masonry { /* Masonry container */
+.masonry {
     column-count: 3;
-    column-gap: 1em;
+    column-gap: 5em;
     height: 500px;
 }
 /*.big_item {
