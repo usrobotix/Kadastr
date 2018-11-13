@@ -2714,3 +2714,18 @@ footer .link a{
       
      .submenu {visibility: hidden;}
      ul li:hover .submenu {visibility: visible;}
+
+     .Оценка_бизнеса {
+        font-size: 12px;
+        font-family: "Montserrat";
+        color: rgb(0, 0, 0);
+        line-height: 1.2;
+        text-align: right;
+        -moz-transform: matrix( 0.99991165577236,0,0,1.00409276944065,0,0);
+        -webkit-transform: matrix( 0.99991165577236,0,0,1.00409276944065,0,0);
+        -ms-transform: matrix( 0.99991165577236,0,0,1.00409276944065,0,0);
+        position: absolute;
+        left: 697.97px;
+        top: 212.553px;
+        z-index: 240;
+      }
