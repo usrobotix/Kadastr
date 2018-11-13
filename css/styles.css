@@ -2590,7 +2590,7 @@ footer .link a{
 .copyright a {
         color: white;
 }
-.Выкуп_помещений_у_города {
+.tasks p {
     font-size: 16px;
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
@@ -2598,8 +2598,6 @@ footer .link a{
     line-height: 1.2;
     text-align: right;
     position: absolute;
-    left: 725.996px;
-    top: 579.3px;
     z-index: 95;
   }
   
