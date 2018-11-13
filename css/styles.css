@@ -2591,13 +2591,31 @@ footer .link a{
         color: white;
 }
 .tasks p {
+    margin-top: 90px;
     font-size: 16px;
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
     font-weight: bold;
     line-height: 1.2;
-    text-align: right;
     position: absolute;
     z-index: 95;
+    width: 222px;
+    margin-left: 20px;
   }
   
+.tasks .big p {
+        width: 237px;
+        margin-top: 260px;
+}
+.tasks .icon {
+    margin-left: 35px;
+    position: absolute;
+    margin-top: 25px;
+}
+.tasks .big .icon {
+        margin-top: 200px;
+}
+
+.service_item a:hover {
+    color: yellow;
+}
