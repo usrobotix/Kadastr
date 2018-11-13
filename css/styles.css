@@ -2590,3 +2590,16 @@ footer .link a{
 .copyright a {
         color: white;
 }
+.Выкуп_помещений_у_города {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    position: absolute;
+    left: 725.996px;
+    top: 579.3px;
+    z-index: 95;
+  }
+  
