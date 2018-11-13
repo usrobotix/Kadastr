@@ -2383,7 +2383,7 @@ ul.breadcrumbs {
 }
 .tasks .service_item {
     display: inline-block;
-    margin: 0 0 .6em;
+  margin: 0px 0 .1em;
     width: 100%;
 }
 .masonry {
@@ -2607,15 +2607,41 @@ footer .link a{
         width: 237px;
         margin-top: 260px;
 }
-.tasks .icon {
+.tasks .iconx {
     margin-left: 35px;
     position: absolute;
     margin-top: 25px;
+    z-index: 55;
+
 }
+
 .tasks .big .icon {
         margin-top: 200px;
 }
 
-.service_item a:hover {
-    color: yellow;
+.service_item:hover{
+     filter: grayscale(0%);
+
+    
+}
+.service_item {
+     filter: grayscale(100%);
+    
+
+}
+.service_item:hover .gray {
+     border: 3px #fc3;
+    background: #fc3;
+        padding: 4px;
+}
+.service_item .gray {
+  border: 3px #f1f1f1;
+    background: #f1f1f1;
+     padding: 4px;
+}
+
+.service_item span {
+    margin-top: 140px;
+    position: absolute;
+    margin-left: 260px;
 }
