@@ -2277,6 +2277,20 @@ header .call_me a, footer .call_me a {
     border-radius: 120px;
     box-shadow: 0 0 12px #ffc000;
 }
+header .call_me a:hover, footer .call_me a:hover {
+    letter-spacing: 1px;
+    position: relative;
+    padding: 0 18px;
+    color: #000000;
+    font: 600 11px Montserrat;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px 15px 8px 15px;
+    border: 2px solid #ffc000;
+    border-radius: 120px;
+    box-shadow: 0 0 12px #ffc000;
+        background: #ffc000;
+}
 h1.services {
     font-size: 36px;
     font-family: "Montserrat";
@@ -2675,16 +2689,17 @@ footer .link a{
    
     opacity: 1; 
     margin-top: 310px;}
-    ._01 {
-        font-size: 16px;
-        font-family: "Montserrat";
-        color: rgb(226, 226, 226);
-        font-weight: bold;
-        line-height: 1.2;
-        text-align: right;
-        position: absolute;
-        left: 933.375px;
-        top: 502.4px;
-        z-index: 84;
+    .numbers {
+    font-size: 16px;
+    font-family: "Montserrat";
+    color: rgb(226, 226, 226);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right;
+    z-index: 84;
+    top: -120px;
+    left: -20px;
       }
-      
+       .service_item.big:hover .numbers {
+        top: -290px;
+       }
