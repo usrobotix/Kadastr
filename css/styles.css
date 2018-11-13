@@ -2395,31 +2395,35 @@ ul.breadcrumbs {
 /*.big_item {
     float: right;
 }*/
+section.seo_txt {
+    margin-top: 28px;
+    height: 300px;
+}
 .seo_txt p {
-    font-size: 14px;
+    font-size: 14.4px;
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
     line-height: 1.286;
     text-align: center;
     position: absolute;
-    left: 418.428px;
-    top: 1047.053px;
     width: 1048px;
     height: 105px;
+    letter-spacing: 0.35px;
     z-index: 27;
-  }
+    margin-top: 32px;
+    margin-left: 72.5px;
+}
   
-  .Как_нас_найти_ {
+  .how_to_find_us h3{
     font-size: 36px;
+    transform: rotate(1deg);
     font-family: "Montserrat";
     color: rgb(0, 0, 0);
     font-weight: bold;
     line-height: 1.2;
-    text-align: right;
-    position: absolute;
-    left: 795.937px;
-    top: 1291.4px;
+    text-align: center;
     z-index: 42;
+    margin-top: 40px;
   }
 
   .seo_txt h2 {
@@ -2429,23 +2433,47 @@ ul.breadcrumbs {
     font-weight: bold;
     line-height: 1.2;
     text-align: center;
-    position: absolute;
-    left: 748.875px;
-    top: 952.8px;
     z-index: 26;
+    letter-spacing: 1.79px;
+    margin-left: 10px;
   }
   
-  .seo_txt a{
+  .seo_txt a {
     font-size: 14px;
     font-family: "Montserrat";
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-weight: bold;
     text-decoration: underline;
     text-transform: uppercase;
     line-height: 1.2;
-    text-align: right;
-    position: absolute;
-    left: 894px;
-    top: 1169.7px;
+    text-align: center;
     z-index: 28;
   }
+
+  .seo_txt div {}
+
+section.how_to_find_us {
+    position: relative;
+    overflow: hidden;
+height: 150px;
+transform: rotate(-1deg);
+    transform: rotateX;
+    height: 200px;
+    background: #f1f1f1; }
+.map {
+   height: 390px;
+    margin-top: -85px;
+   transform: unset; 
+}
+.map .info_map {
+    opacity: .86;
+    position: absolute;
+    left: 50%;
+    z-index: 10;
+    width: 432px;
+    margin-left: 169px;
+    padding: 26px 34px 34px;
+    background: #583966;
+    transform: unset; 
+    top: unset;
+}
